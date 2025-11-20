@@ -2,5 +2,5 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages]([https://github.com/etr-11/project1/](https://etr-11.github.io/project1/))
+- [Публичная страница на GitHub Pages](https://etr-11.github.io/project1/)
 
